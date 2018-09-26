@@ -1,0 +1,16 @@
+{
+  "name": "blog_api_challenge",
+  "version": "1.0.0",
+  "description": "Challenge",
+  "main": "BlogAPIChallenge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shannon Callahan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.1",
+    "uuid": "^3.3.2"
+  }
+}
